@@ -1,0 +1,10 @@
+.form
+{
+	width:700px;
+	background-color:white;
+    background-image:
+    radial-gradient(purple 9px, transparent 10px),
+    repeating-radial-gradient(purple 0, purple 4px, transparent 5px, transparent 20px, purple 21px, purple 25px, transparent 26px, transparent 50px);
+    background-size: 30px 30px, 90px 90px;
+    background-position: 0 0;
+}
